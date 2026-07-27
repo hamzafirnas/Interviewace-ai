@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAce AI",
+  "description": "AI-powered HR interview practice app for university students and fresh graduates.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
